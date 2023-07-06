@@ -23,7 +23,7 @@ NetProbe is a powerful Python-based tool for real-time network packet analysis. 
 3. NetProbe will start capturing and analyzing network packets in real-time.
 4. The tool will display interactive visualizations, including histograms and pie charts, as well as essential statistical values.
 5. Use the provided interface to navigate through captured packet information and analyze network behavior.
-6. Press Ctrl+C or close the application window to stop the packet capture.
+6. By default, it will stop capturing packets after processing 50 packets. You can modify this value in the main.py file to adjust the packet count for capturing. Press Ctrl+C in the terminal to manually stop the packet capture process.
 
 ## Screenshots
 
